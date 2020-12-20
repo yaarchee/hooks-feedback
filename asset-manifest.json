@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hooks-feedback/static/css/main.e43a7f3d.chunk.css",
+    "main.js": "/hooks-feedback/static/js/main.3b3ad17c.chunk.js",
+    "main.js.map": "/hooks-feedback/static/js/main.3b3ad17c.chunk.js.map",
+    "runtime-main.js": "/hooks-feedback/static/js/runtime-main.7cafb40b.js",
+    "runtime-main.js.map": "/hooks-feedback/static/js/runtime-main.7cafb40b.js.map",
+    "static/js/2.2acef6e2.chunk.js": "/hooks-feedback/static/js/2.2acef6e2.chunk.js",
+    "static/js/2.2acef6e2.chunk.js.map": "/hooks-feedback/static/js/2.2acef6e2.chunk.js.map",
+    "index.html": "/hooks-feedback/index.html",
+    "precache-manifest.039c8edccb1ca1133a127105020fde04.js": "/hooks-feedback/precache-manifest.039c8edccb1ca1133a127105020fde04.js",
+    "service-worker.js": "/hooks-feedback/service-worker.js",
+    "static/css/main.e43a7f3d.chunk.css.map": "/hooks-feedback/static/css/main.e43a7f3d.chunk.css.map",
+    "static/js/2.2acef6e2.chunk.js.LICENSE.txt": "/hooks-feedback/static/js/2.2acef6e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cafb40b.js",
+    "static/js/2.2acef6e2.chunk.js",
+    "static/css/main.e43a7f3d.chunk.css",
+    "static/js/main.3b3ad17c.chunk.js"
+  ]
+}
